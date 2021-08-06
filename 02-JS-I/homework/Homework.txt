@@ -1,0 +1,14 @@
+Explicación de los conceptos:
+
+Variables: Es una manera de guardar el valor de algo que después usaremos.
+
+Strings: Es cualquier texto entre comillas.
+
+Funciones (argumentos, return): Son objetos que nos retornarán algo después de introducir variables 
+o argumentos.
+
+Declaraciones if: Es una forma de que la función verifique si algo es verdadero o falso.
+
+
+Valores booleanos (true, false): Es la forma de determinar si algo se cumple entre dos opciones 
+verdadero o falso. 
